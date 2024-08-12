@@ -1,0 +1,5 @@
+Flask==2.2.5
+google-cloud-texttospeech==2.16.1
+python-dotenv==1.0.0
+loguru==0.7.0
+gtts
